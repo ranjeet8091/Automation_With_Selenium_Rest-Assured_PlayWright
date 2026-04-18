@@ -1,0 +1,6 @@
+stepDefinitions\DummyFeature.class
+stepDefinitions\LoginFeatureSelenium.class
+stepDefinitions\Login.class
+stepDefinitions\LoginWithApi.class
+apis\LoginAPI.class
+testRunner\CucumberRunner.class
